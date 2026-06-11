@@ -1,0 +1,7 @@
+node_modules/
+.idea
+cypress/videos/
+cypress/screenshots/
+irctc-captcha-solver/__pycache__
+cypress/downloads/"cypress.env.json" 
+cypress.env.json
