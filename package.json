@@ -9,7 +9,7 @@
     "start-booking": "concurrently \"npm run start-captha-server\" \"npm run wait-for-captha-server-to-come-up && npm run start-irctc-booking\"",
     "test": "cypress run"
   },
-  "author": "Shivam Pandey",
+  "author": "Anish Verma",
   "license": "ISC",
   "dependencies": {
     "cypress": "13.7.1",
