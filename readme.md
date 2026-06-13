@@ -51,7 +51,7 @@ Is file me jaakar apni train aur passenger ki details change kar le.
   "UPI_ID_CONFIG": "yourupi@paytm",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "SHIVAM PANDEY",
+      "NAME": "ANISH VERMA",
       "AGE": 25,
       "GENDER": "Male",
       "SEAT": "Side Upper",
